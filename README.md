@@ -1,4 +1,3 @@
-### Project Overview [![System Status](https://img.shields.io/badge/⚡_LIVE_FEED-ACTIVE-00ffff?style=flat-square&logo=powerpages&logoColor=black)](https://github.com/git-praveenyadav)
 
 # Transformer-Health-Intelligence-Pipeline
 
